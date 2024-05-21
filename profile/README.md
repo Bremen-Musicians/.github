@@ -42,13 +42,14 @@
 
 # 화면소개
 
-![image (1)](https://github.com/SSAFY-A104/back-end/assets/42714724/8fb4baed-3575-465b-9d46-97bd7cb95a79)
-![image (2)](https://github.com/SSAFY-A104/back-end/assets/42714724/69f64707-c5ca-46c8-9cc8-ad1b2706fbaf)
+![image (1)](https://github.com/SSAFY-A104/.github/assets/42714724/a9a17f92-fd47-4b8e-a026-b1761af48bd0)
+
+![image (2)](https://github.com/SSAFY-A104/.github/assets/42714724/5da8cdf1-dbf8-43dc-a1f1-796fe5d90a62)
 
 
 # 아키텍쳐
 
-![image (3)](https://github.com/SSAFY-A104/back-end/assets/42714724/8a47a583-217c-4964-a2cd-15765d582175)
+![image (3)](https://github.com/SSAFY-A104/.github/assets/42714724/311dc8e2-1edf-4630-a8c7-e5c60bf56156)
 
 
 # 기술스택
